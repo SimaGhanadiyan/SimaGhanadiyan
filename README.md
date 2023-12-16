@@ -27,8 +27,8 @@ My name is Sima and I am 26 years old. I am a graduate student of artificial int
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SimaGhanadiyan"><img src="https://github-readme-stats.vercel.app/api?username=SimaGhanadiyan&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=84cc16&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="SimaGhanadiyan's GitHub stats" /></a>
+<a href="http://www.github.com/SimaGhanadiyan"><img src="https://github-readme-stats.vercel.app/api?username=SimaGhanadiyan&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="SimaGhanadiyan's GitHub stats" /></a>
 
-<a href="http://www.github.com/SimaGhanadiyan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimaGhanadiyan&stroke=84cc16&background=1c1917&ring=64748b&fire=64748b&currStreakNum=84cc16&currStreakLabel=64748b&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="http://www.github.com/SimaGhanadiyan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimaGhanadiyan&stroke=0f172a&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=0f172a&currStreakLabel=ec4899&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="https://github.com/SimaGhanadiyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimaGhanadiyan&langs_count=10&title_color=64748b&text_color=84cc16&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SimaGhanadiyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimaGhanadiyan&langs_count=10&title_color=ec4899&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
