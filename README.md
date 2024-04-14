@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sima Ghanadiyan
 =======================================================================================================================================
 
-Data Analyst and Machine Learning Engineer
+Data Analyst 
 ------------------------------------------
 
 My name is Sima and I am 26 years old. I am a graduate student of artificial intelligence. Interested in data analysis, data engineering and image processing
